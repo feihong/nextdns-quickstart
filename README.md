@@ -1,5 +1,15 @@
 # Feihong's NextDNS Quickstart
 
+## Download logs
+
+Click http://my.nextdns.io/ > Settings > Logs > Download logs.
+
+Using API key:
+
+```bash
+curl -L -H "X-Api-Key: <api key>" https://api.nextdns.io/profiles/<profile>/logs/download -o logs.csv
+```
+
 ## Links
 
 - API key is viewable at bottom of [account page](https://my.nextdns.io/account)
