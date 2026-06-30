@@ -1,5 +1,13 @@
 # Feihong's NextDNS Quickstart
 
+## Setup
+
+See https://my.nextdns.io/setup > Setup Guide and click on your OS.
+
+On ChromeOS, every app uses whatever is in System Settings.
+
+On MacOS, most browsers need to be configured individually because they don't use the System Settings. Firefox seems to be the lone exception.
+
 ## Download logs
 
 Click http://my.nextdns.io/ > Settings > Logs > Download logs.
